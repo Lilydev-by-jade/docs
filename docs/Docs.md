@@ -1,8 +1,10 @@
+# Documentation
+
 This site serves as a way for me to document my projects in a central area so you don't have to scroll through all my GitHub repositories to find help.
 
 ### Contributing
 
-This site is built with Docusaurus.
+This site is built with Docusaurus 2.
 
 If, for any reason, you would like to contribute, you can clone the repository with the following commands:
 
