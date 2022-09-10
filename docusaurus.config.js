@@ -91,7 +91,7 @@ const config = {
                             },
                             {
                                 label: "Modpacks",
-                                to: "/docs/Modpacks/General%20Info",
+                                to: "/docs/Modpacks/Installing",
                             },
                             {
                                 label: "Resource Packs",
