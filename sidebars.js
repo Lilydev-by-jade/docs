@@ -1,6 +1,6 @@
 module.exports = {
     docs: [
-        "f",
+        "Docs",
         "My Projects",
         "Contributing",
         {
