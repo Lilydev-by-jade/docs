@@ -38,8 +38,7 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve("./sidebars.js"),
                     // Remove this to remove the "edit this page" links.
-                    editUrl:
-                        "https://github.com/Lilydev-by-jade/docs/tree/master",
+                    editUrl: "https://github.com/jadelily18/docs/tree/master",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.scss"),
@@ -73,7 +72,7 @@ const config = {
                         position: "right",
                     },
                     {
-                        href: "https://github.com/Lilydev-by-jade/docs",
+                        href: "https://github.com/jadelily18/docs",
                         label: "GitHub",
                         position: "right",
                     },
@@ -129,12 +128,12 @@ const config = {
                             },
                             {
                                 label: "GitHub",
-                                href: "https://github.com/Lilydev-by-jade/docs",
+                                href: "https://github.com/jadelily18/docs",
                             },
                         ],
                     },
                 ],
-                copyright: `Licensed under <a href="https://github.com/Lilydev-by-jade/docs/blob/master/LICENSE">GNU GPLv3</a>, ${new Date().getFullYear()}. Built with Docusaurus.`,
+                copyright: `Licensed under <a href="https://github.com/jadelily18/docs/blob/master/LICENSE">GNU GPLv3</a>, ${new Date().getFullYear()}. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
