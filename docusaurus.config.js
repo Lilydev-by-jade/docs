@@ -39,7 +39,7 @@ const config = {
                     sidebarPath: require.resolve("./sidebars.js"),
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/jadelily18/Lilydev-Docs/tree/master",
+                        "https://github.com/Lilydev-by-jade/docs/tree/master",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.scss"),
@@ -73,7 +73,7 @@ const config = {
                         position: "right",
                     },
                     {
-                        href: "https://github.com/jadelily18/lilydev-docs",
+                        href: "https://github.com/Lilydev-by-jade/docs",
                         label: "GitHub",
                         position: "right",
                     },
@@ -104,7 +104,7 @@ const config = {
                         items: [
                             {
                                 label: "Modrinth",
-                                href: "https://modrinth.com/user/jadelily18",
+                                href: "https://modrinth.com/user/jade",
                             },
                             {
                                 label: "Discord",
@@ -114,19 +114,27 @@ const config = {
                                 label: "Twitter",
                                 href: "https://twitter.com/jadelily18",
                             },
+                            {
+                                label: "Mastodon",
+                                href: "https://blobfox.coffee/@jade",
+                            },
                         ],
                     },
                     {
                         title: "More",
                         items: [
                             {
+                                label: "Ko-fi",
+                                href: "https://ko-fi.com/jadelily",
+                            },
+                            {
                                 label: "GitHub",
-                                href: "https://github.com/jadelily18/lilydev-docs",
+                                href: "https://github.com/Lilydev-by-jade/docs",
                             },
                         ],
                     },
                 ],
-                copyright: `Licensed under <a href="https://github.com/jadelily18/lilydev-docs/blob/master/LICENSE">GNU GPLv3</a>, ${new Date().getFullYear()}. Built with Docusaurus.`,
+                copyright: `Licensed under <a href="https://github.com/Lilydev-by-jade/docs/blob/master/LICENSE">GNU GPLv3</a>, ${new Date().getFullYear()}. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,

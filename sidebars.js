@@ -1,10 +1,15 @@
 module.exports = {
     docs: [
-        "Docs",
+        "f",
         "My Projects",
         "Contributing",
         {
-            Mods: ["Mods/General Info"],
+            type: "category",
+            label: "Mods",
+            collapsed: false,
+            items: ["Mods/Rules"],
+        },
+        {
             Modpacks: [
                 [
                     "Modpacks/Installing",

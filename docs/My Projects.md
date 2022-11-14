@@ -8,8 +8,15 @@ This page is just a list of my projects, including their GitHub repositories and
 
 VoluBind is a client-sided Fabric mod for 1.19 that allows you to create keybinds to control your in-game volume.
 
-* [GitHub](https://github.com/jadelily18/VoluBind)
+* [GitHub](https://github.com/Lilydev-by-jade/VoluBind)
 * [Modrinth](https://modrinth.com/mod/volubind)
+
+### Rules
+
+Rules is a highly-configurable server-side Fabric mod that allows you to create and customize a /rules command.
+
+* [GitHub](https://github.com/Lilydev-by-jade/Rules)
+* [Modrinth](https://modrinth.com/mod/rules)
 
 ## Modpacks
 
