@@ -6,7 +6,7 @@ This page is just a list of my projects, including their GitHub repositories and
 
 ### VoluBind
 
-VoluBind is a client-sided Fabric mod for 1.19 that allows you to create keybinds to control your in-game volume.
+VoluBind is a client-side Fabric mod for 1.19 that allows you to create keybinds to control your in-game volume.
 
 * [GitHub](https://github.com/Lilydev-by-jade/VoluBind)
 * [Modrinth](https://modrinth.com/mod/volubind)
