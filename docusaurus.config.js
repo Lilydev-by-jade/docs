@@ -86,7 +86,7 @@ const config = {
                         items: [
                             {
                                 label: "Mods",
-                                to: "/docs/Mods/General%20Info",
+                                to: "/docs/my projects#mods",
                             },
                             {
                                 label: "Modpacks",
