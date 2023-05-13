@@ -12,7 +12,10 @@ module.exports = {
         {
             Modpacks: [
                 [
-                    "Modpacks/Installing",
+                    {
+                        type: "doc",
+                        id: "Modpacks/Installing",
+                    },
                     {
                         type: "category",
                         label: "Jade's Parity Plus",
