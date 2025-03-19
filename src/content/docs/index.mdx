@@ -1,0 +1,36 @@
+---
+title: Lilydev Docs
+description: Documentation for Lilydev & LilydevMC projects!
+template: splash
+hero:
+  tagline: Documentation for Lilydev & LilydevMC projects!
+  image:
+    file: ../../assets/houston.webp
+  actions:
+    - text: Documentation
+      link: /docs
+      icon: right-arrow
+    - text: GitHub
+      link: https://github.com/Lilydev-by-jade/docs
+      icon: github
+      variant: minimal
+---
+
+import { Card, CardGrid } from "@astrojs/starlight/components";
+
+## Next steps
+
+<CardGrid stagger>
+  <Card title="Update content" icon="pencil">
+    Edit `src/content/docs/index.mdx` to see this page change.
+  </Card>
+  <Card title="Add new content" icon="add-document">
+    Add Markdown or MDX files to `src/content/docs` to create new pages.
+  </Card>
+  <Card title="Configure your site" icon="setting">
+    Edit your `sidebar` and other config in `astro.config.mjs`.
+  </Card>
+  <Card title="Read the docs" icon="open-book">
+    Learn more in [the Starlight Docs](https://starlight.astro.build/).
+  </Card>
+</CardGrid>
